@@ -1,6 +1,8 @@
 # 🧐 Stats
-![](https://github-readme-stats.vercel.app/api?username=1andre-santos1&theme=github_dark_dimmed&hide=contribs,prs,issues&show=prs_merged)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1andre-santos1&layout=compact&theme=github_dark_dimmed&hide_progress=true)
+https://github.com/1andre-santos1/1andre-santos1/blob/bef4e20f01c5893aad0c8a795394753953697d0d/github-contribution-grid-snake.svg
 
----
-[![](https://visitcount.itsvg.in/api?id=1andre-santos1&icon=0&color=2)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1andre-santos1/1andre-santos1/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1andre-santos1/1andre-santos1/bef4e20f01c5893aad0c8a795394753953697d0d/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1andre-santos1/1andre-santos1/bef4e20f01c5893aad0c8a795394753953697d0d/github-contribution-grid-snake.svg">
+</picture>
