@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: yourusername
+          github_user_name: 1andre-santos1
           svg_out_path: dist/github-contribution-grid-snake.svg
